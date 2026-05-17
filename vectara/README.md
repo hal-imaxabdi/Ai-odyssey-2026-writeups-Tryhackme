@@ -384,4 +384,4 @@ THM{med1c4l_xss_ag3nt_w0rm}
 
 ---
 
-*Room: [2026: An AI Odyssey](https://tryhackme.com/room/2026anaiodyssey) on TryHackMe*
+*Room: [2026: Vectara An AI Odyssey](https://tryhackme.com/room/vectara) on TryHackMe*
